@@ -1,4 +1,4 @@
-TEST_USERS = require('/tmp/readerTestCreds.js');
+TEST_USERS = require('./readerTestCreds.js');
 <p>var frisby = require('frisby');
 var tc = require('./config/test_config');
 var async = require('async');
