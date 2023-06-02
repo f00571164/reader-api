@@ -1,6 +1,6 @@
 TU_EMAIL_REGEX = new RegExp('^testuser*');
 SP_APP_NAME = 'Reader Test';
-TEST_CREDS_TMP_FILE = '/tmp/readerTestCreds.js';
+TEST_CREDS_TMP_FILE = './readerTestCreds.js';
 <p>var async = require('async');
 var dbConfig = require('./config/db.js');
 var mongodb = require('mongodb');
